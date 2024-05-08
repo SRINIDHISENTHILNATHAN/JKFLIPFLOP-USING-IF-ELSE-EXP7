@@ -97,5 +97,5 @@ endmodule
 ![image](https://github.com/SRINIDHISENTHILNATHAN/JKFLIPFLOP-USING-IF-ELSE-EXP7/assets/121373170/8b551167-7cd5-4c37-8f29-a0fca1bf6a40)
 
 
-**RESULTS**
+### RESULTS
 Thus,the JKFLIPFLOP-USING-IF-ELSE is executed successfully.
